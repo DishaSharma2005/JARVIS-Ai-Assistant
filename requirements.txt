@@ -1,0 +1,13 @@
+speechrecognition==3.10.0
+pyttsx3==2.90
+requests==2.31.0
+webbrowser==0.0
+python-dotenv==1.0.0
+geocoder==1.38.1
+cohere==4.34
+googletrans==4.0.0-rc1
+gTTS==2.4.0
+pygame==2.5.2
+youtube-search==2.1.2
+screen-brightness-control==0.8.2
+
