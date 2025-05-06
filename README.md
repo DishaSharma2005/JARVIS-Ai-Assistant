@@ -40,4 +40,8 @@ A multilingual voice assistant with various functionalities including web search
 
 - "Exit/Quit" - Closes the assistant
 
+  ## Requirements
+- Python 3.7+
+- Windows OS (for some system functions)
+
  **Created with ❤️ by Disha**
